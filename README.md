@@ -5,13 +5,13 @@ A visually engaging space-themed website built using only **HTML** and **CSS**. 
 ## 🌌 Live Preview
 
 > _Add your GitHub Pages link here if deployed_  
-> Example: [View Live](https://yourusername.github.io/space-exploration-site/)
+> Example: [View Live] https://codebreaker8609.github.io/Astro-Blog/
 
 ## 📂 Project Structure
 
 astro blog/
 ├── index.html
-└── styles (embedded in HTML or separate .css file)
+└── styles (embedded in HTML or a separate .css file)
 
 markdown
 Copy
